@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
+
 namespace AppCustoViagem.View
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
@@ -15,6 +16,12 @@ namespace AppCustoViagem.View
         public CalcularCusto()
         {
             InitializeComponent();
+
+        }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new MainPage());
         }
     }
 }

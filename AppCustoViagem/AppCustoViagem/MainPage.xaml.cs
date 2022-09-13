@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
+using AppCustoViagem.View;
 
 namespace AppCustoViagem
 {
@@ -17,7 +19,8 @@ namespace AppCustoViagem
 
         private void Button_Clicked_Calcular (object sender, EventArgs e)
         {
-            
+            Navigation.PushAsync(new CalcularCusto());
+
         }
     }
 }
