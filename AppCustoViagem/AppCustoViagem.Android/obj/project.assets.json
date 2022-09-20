@@ -3413,11 +3413,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\AppCustoViagem\\AppCustoViagem\\AppCustoViagem.Android\\AppCustoViagem.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\AppViagem\\AppCustoViagem\\AppCustoViagem.Android\\AppCustoViagem.Android.csproj",
       "projectName": "AppCustoViagem.Android",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\AppCustoViagem\\AppCustoViagem\\AppCustoViagem.Android\\AppCustoViagem.Android.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\AppViagem\\AppCustoViagem\\AppCustoViagem.Android\\AppCustoViagem.Android.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\AppCustoViagem\\AppCustoViagem\\AppCustoViagem.Android\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\AppViagem\\AppCustoViagem\\AppCustoViagem.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3438,8 +3438,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Users\\Usuario\\source\\repos\\AppCustoViagem\\AppCustoViagem\\AppCustoViagem\\AppCustoViagem.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\source\\repos\\AppCustoViagem\\AppCustoViagem\\AppCustoViagem\\AppCustoViagem.csproj"
+            "C:\\Users\\Usuario\\Desktop\\AppViagem\\AppCustoViagem\\AppCustoViagem\\AppCustoViagem.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Desktop\\AppViagem\\AppCustoViagem\\AppCustoViagem\\AppCustoViagem.csproj"
             }
           }
         }

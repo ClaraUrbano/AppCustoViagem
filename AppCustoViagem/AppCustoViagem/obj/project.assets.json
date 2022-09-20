@@ -837,11 +837,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\AppCustoViagem\\AppCustoViagem\\AppCustoViagem\\AppCustoViagem.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\AppViagem\\AppCustoViagem\\AppCustoViagem\\AppCustoViagem.csproj",
       "projectName": "AppCustoViagem",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\AppCustoViagem\\AppCustoViagem\\AppCustoViagem\\AppCustoViagem.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\AppViagem\\AppCustoViagem\\AppCustoViagem\\AppCustoViagem.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\AppCustoViagem\\AppCustoViagem\\AppCustoViagem\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\AppViagem\\AppCustoViagem\\AppCustoViagem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qBjFesr+Yq7wiDx4pNXYslt8g+EfOLoOlXPSXneBVH7MkhH89mbnpkig6NNVaoECMJKw65LlNwOF9ssxzuVjmw==",
+  "dgSpecHash": "+3jhFPcF2euA06u9a92eVDYl6BnB/ZqCfkhCxljeZr2zA9zj44h0kvrgBdql7i0q6ndKsoMSZ+DNPOKCt6YTqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\AppCustoViagem\\AppCustoViagem\\AppCustoViagem.Android\\AppCustoViagem.Android.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\AppViagem\\AppCustoViagem\\AppCustoViagem.Android\\AppCustoViagem.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",

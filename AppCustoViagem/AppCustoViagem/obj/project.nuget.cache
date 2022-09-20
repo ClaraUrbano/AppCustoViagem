@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MHID82W+yq5NArSdrYbXer97DfWPjdO877gQQ8Nao9onWc/xxpqk9Hh//yPwHi65+fIFTF5uWcBPEqOvUK6w4Q==",
+  "dgSpecHash": "L3fq4yHkwoWjUQ/jFZWyuegrfIDK6MhEQvK9e3OrLqlNMqSMHdropQmL+94CvSxV/n4gHvDwZB8BrgU5pNbIyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\AppCustoViagem\\AppCustoViagem\\AppCustoViagem\\AppCustoViagem.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\AppViagem\\AppCustoViagem\\AppCustoViagem\\AppCustoViagem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
